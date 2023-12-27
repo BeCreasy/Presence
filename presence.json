@@ -1,1 +1,69 @@
-981001
+{
+	"id": "658c0e9a61039064135d886c",
+	"EtudiantsPresents": [
+		{
+			"id": "658c0e9a4ba35ed1e81aeb13",
+			"name": "Jesse Austin",
+			"age": 4,
+			"type": "java"
+		},
+		{
+			"id": "658c0e9a045d7e6e384c301c",
+			"name": "Shawn Burke",
+			"age": 10,
+			"type": "dotnet"
+		},
+		{
+			"id": "658c0e9afc8af7824e99ba10",
+			"name": "Shawn Burke",
+			"age": 9,
+			"type": "java"
+		},
+		{
+			"id": "658c0e9af4702812fc463e63",
+			"name": "Shiloh Tran",
+			"age": 2,
+			"type": "dotnet"
+		},
+		{
+			"id": "658c0e9a537c074b690a2446",
+			"name": "Dae Figueroa",
+			"age": 10,
+			"type": "java"
+		},
+		{
+			"id": "658c0e9a99bca2bacb411d9f",
+			"name": "Jody Langley",
+			"age": 7,
+			"type": "dotnet"
+		},
+		{
+			"id": "658c0e9adffb30025b0374ce",
+			"name": "Kendall Stafford",
+			"age": 8,
+			"type": "dotnet"
+		},
+		{
+			"id": "658c0e9a130b3e7f43b582e3",
+			"name": "Kendall Stafford",
+			"age": 10,
+			"type": "java"
+		},
+		{
+			"id": "658c0e9a7d4df75e8e655f36",
+			"name": "Nico Harding",
+			"age": 10,
+			"type": "java"
+		},
+		{
+			"id": "658c0e9aaa656045d420e595",
+			"name": "Donovan Hutchinson",
+			"age": 8,
+			"type": "java"
+		}
+	],
+	"seanceDate": "2023-12-22T16:37:25.911+0000",
+	"NomProfesseur": "hassan",
+	"matiere": "devops",
+	"address": "uir - rabat Maroc"
+}
